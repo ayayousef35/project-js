@@ -16,6 +16,7 @@ proDuct.forEach(function(item){
         remove.style.backgroundColor="#003028"
         purchasePrice.style.display="none"
         remove.style.border="none"
+        totalprice=0;
 
     }
 })
